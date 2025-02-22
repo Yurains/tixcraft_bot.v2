@@ -11,7 +11,7 @@
 現今流行的搶票方法多透過 OCR 進行字符辨識，然而傳統 OCR 仍有許多限制。
 Max 上車機器人使用的 OCR 甚至只是個 beta 版本，因此我選擇了兩種較優的 OCR：
 
-1. **ddddOCR**
+1. **[ddddOCR]**(https://github.com/sml2h3/ddddocr)
 2. **PaddleOCR**
 
 OCR 的辨識能力就是他媽個玄學(dddocr作者)，為了測試兩種OCR的效能
