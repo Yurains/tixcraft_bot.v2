@@ -81,4 +81,4 @@ pip install -r requirements.txt
 ---
 ## 聯絡作者
 **Instagram**：[junyan_0826](https://www.instagram.com/junyan_0826)
-說真的我不想工作，我每天累得像條狗，我想中樂透
+:說真的我不想工作，我每天累得像條狗，我想中樂透
