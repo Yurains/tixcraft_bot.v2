@@ -1,0 +1,17 @@
+certifi
+chardet
+chromedriver-autoinstaller-max
+cryptography
+ddddocr
+idna
+looseversion
+nodriver
+numpy
+Pillow
+playsound
+pyperclip
+selenium
+tornado
+undetected-chromedriver
+urllib3
+Flask
