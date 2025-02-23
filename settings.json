@@ -1,8 +1,8 @@
 {
-    "homepage": "https://tixcraft.com/ticket/game//25_dragon/19066",
+    "homepage": "about:blank",
     "browser": "chrome",
     "language": "English",
-    "ticket_number": 1,
+    "ticket_number": 2,
     "refresh_datetime": "",
     "ocr_captcha": {
         "enable": true,
@@ -13,13 +13,13 @@
     "webdriver_type": "undetected_chromedriver",
     "date_auto_select": {
         "enable": true,
-        "date_keyword": "\"2/23\"",
+        "date_keyword": "",
         "mode": "random"
     },
     "area_auto_select": {
         "enable": true,
-        "mode": "from bottom to top",
-        "area_keyword": "\"1\u6a13\u7279A\u5340\""
+        "mode": "random",
+        "area_keyword": ""
     },
     "keyword_exclude": "\"\u8f2a\u6905\",\"\u8eab\u969c\",\"\u8eab\u5fc3 \u969c\u7919\",\"Restricted View\",\"\u71c8\u67f1\u906e\u853d\",\"\u8996\u7dda\u4e0d\u5b8c\u6574\"",
     "kktix": {
@@ -38,12 +38,12 @@
         "play_sound": {
             "ticket": true,
             "order": true,
-            "filename": "./img/ding-dong.wav"
+            "filename": "ding-dong.wav"
         },
         "tixcraft_sid": "",
         "ibonqware": "",
-        "facebook_account": "adobe12353@yahoo.com.tw",
-        "kktix_account": "sf151210@gmail.com",
+        "facebook_account": "",
+        "kktix_account": "",
         "fami_account": "",
         "cityline_account": "",
         "urbtix_account": "",
@@ -52,8 +52,8 @@
         "ticket_account": "",
         "udn_account": "",
         "ticketplus_account": "",
-        "facebook_password": "dHtheiorIiEjIw==",
-        "kktix_password": "VHtheiorIiEjIw==",
+        "facebook_password": "",
+        "kktix_password": "",
         "fami_password": "",
         "urbtix_password": "",
         "cityline_password": "",
@@ -83,7 +83,7 @@
         "remote_url": "\"http://127.0.0.1:16888/\"",
         "auto_reload_page_interval": 0.1,
         "auto_reload_overheat_count": 4,
-        "auto_reload_overheat_cd": 1.0,
+        "auto_reload_overheat_cd": 1,
         "reset_browser_interval": 0,
         "proxy_server_port": "",
         "window_size": "480,1024",
