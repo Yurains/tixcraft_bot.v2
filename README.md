@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 ##  影片說明
 
-👉 [點擊觀看影片說明](https://www.youtube.com/watch?v=sXyOsXwPsKo)
+👉 [單開有聲音說明](https://www.youtube.com/watch?v=sXyOsXwPsKo)
 
 ---
 
