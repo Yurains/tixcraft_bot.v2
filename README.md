@@ -9,15 +9,14 @@
 ---
 ## OCR 比較測試
 
-現今流行的搶票方法多透過 OCR 進行字符辨識，然而傳統 OCR 仍有許多限制。
+現今流行的搶票方法多透過 OCR 進行字符辨識，然而傳統上的OCR仍有許多限制，例如辨識不佳、架構層數有問題
 Max 上車機器人使用的 OCR 甚至只是個 beta 版本，因此我選擇了兩種較優的 OCR：
 
 1. **ddddOCR**(https://github.com/sml2h3/ddddocr)
 2. **PaddleOCR**(https://github.com/PaddlePaddle/PaddleOCR)
 
-OCR 的辨識能力就是他媽個玄學(dddocr作者)，為了測試兩種OCR的效能
-我透過驗證碼速度研究進行比較，結果如下：
-
+OCR 的辨識效果就是他媽個玄學(Sml2h3 2024 et al. ddddocr)，為了測試兩種OCR的效能
+透過驗證碼速度研究進行比較，並在Mac Mini M4Pro底下train，避免誤差錯誤，並在Linux、Windows操作，並進行交叉驗證，結果如下：
 ### 📊 測試結果統計
 
 - **測試時間**：2025/02/22 23:12:18
